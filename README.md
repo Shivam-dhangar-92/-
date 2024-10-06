@@ -1,0 +1,12 @@
+# .env
+````
+PORT
+MONGODB_URI 
+FRONTEND_URL
+JWT_SECREAT_KEY 
+````
+# .env frontend
+````
+REACT_APP_CLOUDINARY_CLOUD_NAME 
+REACT_APP_BACKEND_URL  
+````
