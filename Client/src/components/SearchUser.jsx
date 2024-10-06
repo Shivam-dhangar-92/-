@@ -50,7 +50,7 @@ const SearchUser = ({onClose}) => {
                 </div>
             </div>
 
-            {/**display search user */}
+       
             <div className='bg-white mt-2 w-full p-4 rounded'>
                 {/**no user found */}
                 {
