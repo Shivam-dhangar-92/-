@@ -1,4 +1,4 @@
-# .env
+# .env backend
 ````
 PORT
 MONGODB_URI 
